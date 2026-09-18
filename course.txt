@@ -2,3 +2,5 @@ python
 dsa 
 dbms
 cpp
+c
+java
